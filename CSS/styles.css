@@ -1,0 +1,44 @@
+/** ****************************TAG SELECTERS** *****************************/
+
+body{
+  background-color: #E4F9F5;
+  color: grey;
+}
+
+h1 {
+  color: #66BFBF;
+  text-align: center;
+  text-shadow: 1px 1px;
+}
+
+h2{
+  color: #74d4c0;
+  text-align: left;
+  text-decoration: underline;
+}
+
+h3{
+  color: #74d4c0;
+  text-align: left;
+}
+
+h4{
+  color: #66BFBF;
+  text-align: left;
+  text-shadow: 1px 1px;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+hr{
+  border-style: none ;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+/** ****************************CLASS SELECTERS** *****************************/
